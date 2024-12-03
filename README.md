@@ -1,7 +1,7 @@
                                                 Real-Time Chat Application
 
 
-A Real-Time Chat Application built to provide seamless, secure, and user-friendly communication. This app allows users to exchange text messages in real-time, share files, and create group chats while ensuring data privacy through end-to-end encryption.
+A Real-Time Chat Application built to provide seamless, secure, and user-friendly communication. This app allows users to exchange text messages in real-time and create group chats while ensuring data privacy through end-to-end encryption.
 
 Key Features
 
